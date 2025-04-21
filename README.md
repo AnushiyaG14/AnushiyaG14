@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AnushiyaG14
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
 
 
